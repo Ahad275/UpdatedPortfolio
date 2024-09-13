@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/UpdatedPortfolio/static/css/main.54ad7878.css",
-    "main.js": "/UpdatedPortfolio/static/js/main.0c15ecde.js",
+    "main.css": "/UpdatedPortfolio/static/css/main.fbf9e5fb.css",
+    "main.js": "/UpdatedPortfolio/static/js/main.d9a01411.js",
     "static/js/453.1407b060.chunk.js": "/UpdatedPortfolio/static/js/453.1407b060.chunk.js",
     "static/media/bg-masthead.jpg": "/UpdatedPortfolio/static/media/bg-masthead.51258996983dd0d0febf.jpg",
     "static/media/fa-solid-900.ttf": "/UpdatedPortfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/intropagebg.png": "/UpdatedPortfolio/static/media/intropagebg.19bc240d07e78c327963.png",
     "static/media/mongodblogo.png": "/UpdatedPortfolio/static/media/mongodblogo.cf2dd9bac7a756cf5a8d.png",
     "static/media/fa-brands-400.ttf": "/UpdatedPortfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/whatidosoftware.png": "/UpdatedPortfolio/static/media/whatidosoftware.6a6c7d9cbdfffb741860.png",
@@ -28,12 +29,12 @@
     "static/media/fa-v4compatibility.ttf": "/UpdatedPortfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/UpdatedPortfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/UpdatedPortfolio/index.html",
-    "main.54ad7878.css.map": "/UpdatedPortfolio/static/css/main.54ad7878.css.map",
-    "main.0c15ecde.js.map": "/UpdatedPortfolio/static/js/main.0c15ecde.js.map",
+    "main.fbf9e5fb.css.map": "/UpdatedPortfolio/static/css/main.fbf9e5fb.css.map",
+    "main.d9a01411.js.map": "/UpdatedPortfolio/static/js/main.d9a01411.js.map",
     "453.1407b060.chunk.js.map": "/UpdatedPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ad7878.css",
-    "static/js/main.0c15ecde.js"
+    "static/css/main.fbf9e5fb.css",
+    "static/js/main.d9a01411.js"
   ]
 }
